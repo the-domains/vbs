@@ -12,3 +12,7 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 name: vbs
+opengraph:
+  appId: 'https://www.facebook.com/vbsltd/'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/8da943b2-e701-45af-aed5-1dbb61e16fc9.png
