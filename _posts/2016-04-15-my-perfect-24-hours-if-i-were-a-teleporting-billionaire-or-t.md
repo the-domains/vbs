@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-02T12:54:18.827Z'
+datePublished: '2016-07-02T12:54:18.961Z'
 sourcePath: >-
   _posts/2016-04-15-my-perfect-24-hours-if-i-were-a-teleporting-billionaire-or-t.md
 inFeed: true
