@@ -1,0 +1,14 @@
+layout_spectrum: 0.8029383243992925
+typography_spectrum: 0.05259562795981765
+color:
+  brandStrength: 0.27053564810194075
+  lightness: 0.5454501151107252
+  saturation: 0.3697785653639585
+  rhythmicContrast: 0.03528606868349016
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: vbs
