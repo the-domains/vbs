@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[vbs]]></title>
+        <description><![CDATA[vbs]]></description>
+        <link>https://thegrid.ai/vbs/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jul 2016 12:53:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vbs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wandering: New York]]></title>
+            <description><![CDATA[<article><h1>Wandering: New York</h1><p>Please watch this video with headphones or good speakers for the full effect! This short film aims to give a brief portrait of what it feels like to wander around New York City. These 3 minutes will hopefully give you the impression of being right in the city.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79a6410cdce2051489baebe823ec9075e6729841.jpg"></article>]]></description>
+            <link>https://vimeo.com/115179625</link>
+            <guid isPermaLink="false">e6b528e5-9ba8-46ac-92ac-cba862337fdc</guid>
+            <pubDate>Sat, 02 Jul 2016 12:53:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The World's Best Budget Airlines]]></title>
+            <description><![CDATA[<article><h1>The World's Best Budget Airlines</h1><p>Here are 10 of the best budget airlines in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50f3082041c9f4d9872cb6ecfb9f3f494f138013.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/travel/nation/the-worlds-best-budget-airlines-southwest-easyjet-icelandair/travel</link>
+            <guid isPermaLink="false">cf1cb9ae-98aa-4f69-807a-7db5c552f8e5</guid>
+            <pubDate>Sat, 02 Jul 2016 12:53:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away]]></title>
+            <description><![CDATA[<article><h1>My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away</h1><p>Bear with me on this one. Let's say it's summer, end of August to be more precise. I live in Romania, I am a billionaire, and, of course, teleportation is possible. To make it easier for you to calculate (if you want to), use the Eastern European time (UTC+2).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d514394de715e2d49831dc9410ecb72b24380f6d.jpg"></article>]]></description>
+            <link>http://travelaway.me/24-hours-teleporting-billionaire/</link>
+            <guid isPermaLink="false">179459b3-c425-4162-b279-9c5cd1264896</guid>
+            <pubDate>Sat, 02 Jul 2016 12:53:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
