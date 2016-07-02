@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-02T12:53:12.741Z'
+datePublished: '2016-07-02T13:57:06.752Z'
 sourcePath: _posts/2016-04-15-wandering-new-york.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/115179625'
@@ -7,12 +7,9 @@ authors: []
 hasPage: false
 keywords: []
 related: []
-author:
-  - name: Rustad Media
-    url: 'http://vimeo.com/rustadmedia'
-    avatar: {}
-dateModified: '2016-07-02T12:53:12.208Z'
-title: 'Wandering: New York'
+author: []
+dateModified: '2016-07-02T13:54:27.679Z'
+title: ''
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/115179625'
     type: ios
@@ -45,11 +42,7 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-description: >-
-  Please watch this video with headphones or good speakers for the full effect!
-  This short film aims to give a brief portrait of what it feels like to wander
-  around New York City. These 3 minutes will hopefully give you the impression
-  of being right in the city.
+description: CONTACT US
 inLanguage: null
 inNav: false
 starred: false
@@ -57,4 +50,20 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F115179625&amp;url=https%3A%2F%2Fvimeo.com%2F115179625&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F501125432_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="426" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23c0be369fab20748fe41fc8f099190e/croprotate.png?cropheight=3378&cropwidth=5065&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fca1c3353-b121-454e-9bff-439e091aeafc.png&x=0&y=0)
+
+CONTACT US
+
+for information on any of our products and services, please feel free to call or email us where we will guide you through your printing requirements.
+
+Unit 19, Jamestown Business Park, Finglas, Dublin 11\.
+
+T. 353 1 8643639
+
+E. vigorous@eircom.net
+
+OPENING HOURS:
+
+Monday - Thursday 9.00am - 5.30PM
+
+Friday: 9.00am - 2.00pm
